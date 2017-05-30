@@ -1,0 +1,17 @@
+manage.py
+venv/*
+local
+*.pyc
+
+adeum/settings_local.py
+adeum/parameters.py
+
+db.sqlite3
+database.db
+secret_key
+
+static/*
+
+*.mo
+assets/ckeditor/
+.well-known/
